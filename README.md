@@ -10,5 +10,5 @@ This solution takes an annual report in a digital PDF format as input, and retur
 * DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Image Analytics solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-2hcnfgfhcvq6u)
 
